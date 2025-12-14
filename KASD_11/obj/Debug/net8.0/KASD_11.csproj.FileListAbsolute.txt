@@ -1,0 +1,14 @@
+D:\KASD_11\bin\Debug\net8.0\KASD_11.exe
+D:\KASD_11\bin\Debug\net8.0\KASD_11.deps.json
+D:\KASD_11\bin\Debug\net8.0\KASD_11.runtimeconfig.json
+D:\KASD_11\bin\Debug\net8.0\KASD_11.dll
+D:\KASD_11\bin\Debug\net8.0\KASD_11.pdb
+D:\KASD_11\obj\Debug\net8.0\KASD_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\KASD_11\obj\Debug\net8.0\KASD_11.AssemblyInfoInputs.cache
+D:\KASD_11\obj\Debug\net8.0\KASD_11.AssemblyInfo.cs
+D:\KASD_11\obj\Debug\net8.0\KASD_11.csproj.CoreCompileInputs.cache
+D:\KASD_11\obj\Debug\net8.0\KASD_11.dll
+D:\KASD_11\obj\Debug\net8.0\refint\KASD_11.dll
+D:\KASD_11\obj\Debug\net8.0\KASD_11.pdb
+D:\KASD_11\obj\Debug\net8.0\KASD_11.genruntimeconfig.cache
+D:\KASD_11\obj\Debug\net8.0\ref\KASD_11.dll
