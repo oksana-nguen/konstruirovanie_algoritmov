@@ -1,0 +1,16 @@
+﻿using System;
+using System.Runtime.Intrinsics.X86;
+using KASD_5;
+int[] a = { 5, 3, 6, 2, 6, 2, 8, 1 };
+int[] b = { 7, 6, 8, 2, 4, 5 };
+Heap <int> a1 = new Heap<int>(a);
+Heap<int> a2= new Heap<int>(b);
+a1.buildHeap();
+a2.buildHeap();
+a1.PrintHeap();
+Console.WriteLine();
+a1.DecreaseKey(6, 2);
+a1.PrintHeap();
+Console.WriteLine();
+a1.UpdateKey(6, 4);
+a1.PrintHeap();
