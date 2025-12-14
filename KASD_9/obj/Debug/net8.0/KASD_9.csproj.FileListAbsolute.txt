@@ -1,0 +1,14 @@
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\bin\Debug\net8.0\KASD_9.exe
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\bin\Debug\net8.0\KASD_9.deps.json
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\bin\Debug\net8.0\KASD_9.runtimeconfig.json
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\bin\Debug\net8.0\KASD_9.dll
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\bin\Debug\net8.0\KASD_9.pdb
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.AssemblyInfoInputs.cache
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.AssemblyInfo.cs
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.csproj.CoreCompileInputs.cache
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.dll
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\refint\KASD_9.dll
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.pdb
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\KASD_9.genruntimeconfig.cache
+C:\Users\Honor\OneDrive\Desktop\шиян\KASD_9\obj\Debug\net8.0\ref\KASD_9.dll
