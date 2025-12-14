@@ -1,0 +1,19 @@
+=== Лог операций с заявками ===
+Формат: ОПЕРАЦИЯ Номер_Заявки Приоритет Номер_Шага
+
+ADD 1 2 1
+ADD 2 3 1
+ADD 3 5 1
+ADD 4 2 1
+ADD 5 5 1
+ADD 6 3 1
+ADD 7 4 1
+ADD 8 1 1
+REMOVE 3 5 1
+REMOVE 5 5 2
+REMOVE 7 4 3
+REMOVE 6 3 4
+REMOVE 2 3 5
+REMOVE 4 2 6
+REMOVE 1 2 7
+REMOVE 8 1 8
